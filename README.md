@@ -15,11 +15,11 @@
 
 Script Location - выберите файл gui.py
 
-Onefile - выберите "One File" или "One Directory" (на твой выбор спокойно мне похуй)
+Onefile - выберите "One File" или "One Directory" (на твой выбор)
 
 Console Window - рекомендую "Window Based (hide the console)"
 
-Icon - выберите любую иконку по твоему ебучему вкусу
+Icon - выберите любую иконку по твоему вкусу
 
 В разделе Additional Files:
 
